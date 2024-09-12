@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tourist travels",
+    "description": "",
+    "home_page_url": "https://jorjalinke.github.io/Mywebsite",
+    "feed_url": "https://jorjalinke.github.io/Mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "jorja l"
+    },
+    "items": [
+    ]
+}

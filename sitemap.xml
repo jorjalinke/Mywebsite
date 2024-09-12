@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jorjalinke.github.io/Mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jorjalinke.github.io/Mywebsite/</loc>
+</url>
+<url>
+<loc>https://jorjalinke.github.io/Mywebsite/greece.html</loc>
+<lastmod>2024-09-05T09:21:15+02:00</lastmod>
+<image:image>
+<image:loc>https://jorjalinke.github.io/Mywebsite/media/posts/2/gallery/caption-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jorjalinke.github.io/Mywebsite/rio-de-janeiro.html</loc>
+<lastmod>2024-09-05T09:33:13+02:00</lastmod>
+<image:image>
+<image:loc>https://jorjalinke.github.io/Mywebsite/media/posts/3/gallery/tour-privado-rio-janeiro-589x392.avif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
